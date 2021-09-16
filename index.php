@@ -48,5 +48,6 @@
         <div><a href="filterTest.php">29. PHP Filters 사용</a></div>
         <div><a href="fileUploadTest.html">30. 파일 업로드</a></div>
         <div><a href="GD1.html">31. GD 라이브러리 활용 1</a></div>
+        <div><a href="cookieTest.php">32.COOKIE</a></div>
     </body>
 </html>
