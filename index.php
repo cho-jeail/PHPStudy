@@ -49,5 +49,8 @@
         <div><a href="fileUploadTest.html">30. 파일 업로드</a></div>
         <div><a href="GD1.html">31. GD 라이브러리 활용 1</a></div>
         <div><a href="cookieTest.php">32.COOKIE</a></div>
+        <div><a href="sessionTest01.php">33-1. Session 사용법</a></div>
+        <div><a href="sessionTest02.html">33-2. Session을 이용한 데이터 송신 테스트</a></div>
+        <div><a href="sessionLogin.html">33-3. Session을 활용한 로그인</a></div>
     </body>
 </html>
