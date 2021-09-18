@@ -52,5 +52,7 @@
         <div><a href="sessionTest01.php">33-1. Session 사용법</a></div>
         <div><a href="sessionTest02.html">33-2. Session을 이용한 데이터 송신 테스트</a></div>
         <div><a href="sessionLogin.html">33-3. Session을 활용한 로그인</a></div>
+        <div><a href="classTest01.php">34-1. 객체와 클래스 개념</a></div>
+        <div><a href="classTest02.php">34-2. 접근제한자 상속 개념</a></div>
     </body>
 </html>
