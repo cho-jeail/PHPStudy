@@ -54,5 +54,7 @@
         <div><a href="sessionLogin.html">33-3. Session을 활용한 로그인</a></div>
         <div><a href="classTest01.php">34-1. 객체와 클래스 개념</a></div>
         <div><a href="classTest02.php">34-2. 접근제한자 상속 개념</a></div>
+        <div><a href="classTest03.php">34-3. 생성자와 소멸자</a></div>
+        <div><a href="classFunction.php">34-4. 가변 인가 함수</a></div>
     </body>
 </html>
