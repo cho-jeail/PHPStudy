@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>파일 업로드</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>파일을 업로드해주세요.</h1>
+        <div>
+            <!-- 
+                파일 업로드를 위해서 method="post" 이고, 
+                enctype="multipart/form-data" 로 지정해야 합니다.
+            -->
+            <form action="../php/fileUploadTest.php" method="post" name="uploadForm" enctype="multipart/form-data">
+                <input type="text" name="comment" placeholder="comment 입력"><br>
+                첨부 파일 &nbsp; <input type="file" name="upload"><br>
+                <input type="submit" value="업로드">
+            </form>
+            <a href="../index.php">뒤로가기</a>
+        </div>
+    </body>
+</html>
